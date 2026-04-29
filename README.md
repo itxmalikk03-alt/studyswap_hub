@@ -1,25 +1,25 @@
-# 📚 StudySwap Hub
+#  StudySwap Hub
 
 **Pakistan's Student Book Exchange Platform** — Swap, buy, sell, or share academic books and study resources across universities, all in one place.
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 StudySwap Hub is a PHP-based web application that connects Pakistani university students to exchange academic books and study materials. Students can list their books for swapping, selling, or free sharing, and send requests to other students directly through the platform.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Student Features
+###  Student Features
 - **Registration & Login** — University-specific student accounts
 - **Browse Books** — Search and filter by category, listing type, and university
 - **Add Book Listing** — Create listings with cover image and PDF upload
 - **Listing Types:**
-  - 🔁 **Swap** — Trade your book for another
-  - 💰 **Sale** — Sell at a fixed price
-  - 🆓 **Free** — Share for free download
+  -  **Swap** — Trade your book for another
+  -  **Sale** — Sell at a fixed price
+  -  **Free** — Share for free download
 - **Book Detail Page** — View full info and send a swap/buy/download request
 - **Request System** — Send, accept, or decline requests
 - **Wishlist** — Save books you are interested in
@@ -29,7 +29,7 @@ StudySwap Hub is a PHP-based web application that connects Pakistani university 
 - **User Profile** — Bio, rating, university, and swap count
 - **Dashboard** — Stats overview, incoming requests, and accepted swaps
 
-### 🔐 Admin Features
+###  Admin Features
 - **Admin Panel** — Manage users and book listings
 - **User Control** — Activate or deactivate student accounts
 - **Content Moderation** — Remove inappropriate listings
@@ -37,7 +37,7 @@ StudySwap Hub is a PHP-based web application that connects Pakistani university 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -50,7 +50,7 @@ StudySwap Hub is a PHP-based web application that connects Pakistani university 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 studyswap_hub/
@@ -100,7 +100,7 @@ studyswap_hub/
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 | Table | Description |
 |-------|-------------|
@@ -113,7 +113,7 @@ studyswap_hub/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Requirements
 - PHP 7.4+
@@ -168,18 +168,18 @@ http://localhost/studyswap_hub/
 
 ---
 
-## 🔑 Default Admin Account
+##  Default Admin Account
 
 | Field | Value |
 |-------|-------|
 | Email | `admin@studyswap.pk` |
 | Password | `admin123` |
 
-> ⚠️ **Change the password immediately after your first login.**
+>  **Change the password immediately after your first login.**
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### For Students
 1. Register at `register.php` with your university details
@@ -195,7 +195,7 @@ http://localhost/studyswap_hub/
 
 ---
 
-## 📚 Book Categories
+##  Book Categories
 
 - Engineering
 - Medical
@@ -207,7 +207,7 @@ http://localhost/studyswap_hub/
 
 ---
 
-## 🏫 Featured Universities
+##  Featured Universities
 
 - NUST Islamabad
 - FAST-NUCES Lahore
@@ -219,7 +219,7 @@ http://localhost/studyswap_hub/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/your-feature`)
@@ -229,13 +229,13 @@ http://localhost/studyswap_hub/
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for educational purposes. Feel free to use and modify it.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **StudySwap Hub** — Built for Pakistani students
 
